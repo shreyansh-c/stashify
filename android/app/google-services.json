@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385226529527",
+    "project_id": "stashify-625e2",
+    "storage_bucket": "stashify-625e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385226529527:android:f7aa3fa077b094a59611f2",
+        "android_client_info": {
+          "package_name": "com.example.stashify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385226529527-mvo3tsmkbcjrbe86sajaaudf1qm5fkqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stashify",
+            "certificate_hash": "edcd3c7be530788d9714db1b919f681dbba4b5a4"
+          }
+        },
+        {
+          "client_id": "385226529527-roarefr06j63jlu17kcdol5jm1145i9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0t8HVJkbItAEWuFIvtj5dX_vMHH3S8bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385226529527-roarefr06j63jlu17kcdol5jm1145i9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
